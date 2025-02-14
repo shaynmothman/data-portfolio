@@ -1,13 +1,13 @@
-# Shaina Nacion
+# Shaina "Shayn" Nacion
 ### Data Analytics Professional | Seattle, Washington
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shaina-nacion/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BF32ygmPfR2%2BPsRtnpIma%2Fw%3D%3D)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:shainanacion206@gmail.com)
+[![Mentra](https://img.shields.io/badge/mentra-View_Profile-purple)](https://app.mentra.com/shaina-nacion-1)
 
 ## About Me
 Detail-oriented professional transitioning into data analytics with experience in system development, data tracking, and process optimization. Currently pursuing Google Data Analytics Professional Certificate and building expertise in SQL, data visualization, and statistical analysis.
 
 ## Portfolio Projects
-*(You can add your projects from the Google certification here as you complete them)*
 
 ### Project 1: [Project Name]
 - Brief description of the project
